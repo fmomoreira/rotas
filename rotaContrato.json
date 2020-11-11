@@ -1,23 +1,23 @@
-
+[
 {
-id:1,
-codigoContrato:"4678252020",
-nome: "MacPock lite",
-dataVigencia: "09/11/2020",
-dataValidade: "30/12/2021"
+"id"1,
+"codigoContrato":"4678252020",
+"nome": "MacPock lite",
+"dataVigencia": "09/11/2020",
+"dataValidade": "30/12/2021"
 },
 {
-id:2,
-codigoContrato:"4678242020",
-nome: "MacPock Pro",
-dataVigencia: "01/11/2020",
-dataValidade: "30/03/2021"
+"id":2,
+"codigoContrato":"4678242020",
+"nome": "MacPock Pro",
+"dataVigencia": "01/11/2020",
+"dataValidade": "30/03/2021"
 },
 {
-id:3,
-codigoContrato:"4678232020",
-nome: "MacPock Pro",
-dataVigencia: "01/06/2020",
-dataValidade: "30/12/2020"
+"id":3,
+"codigoContrato":"4678232020",
+"nome": "MacPock Pro",
+"dataVigencia": "01/06/2020",
+"dataValidade": "30/12/2020"
 }
-
+  ]
