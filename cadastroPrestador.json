@@ -1,0 +1,43 @@
+{
+"atendeNoLocal": true,
+"atividades": [
+"24"
+],
+"bairro": "Jardim Imperial",
+"cep": "12950500",
+"cidade": "Atibaia",
+"cnpj": "1516156165165",
+"complemento": "comercio",
+"contatos": [
+{
+"numero": "11933008587",
+"tipoContato": "FINANCEIRO"
+}
+],
+"emails": [
+{
+"email": "betotobias@comercial.com",
+"tipoEmail": "COMERCIAL"
+},
+{
+"email": "betotobias@comercial.com",
+"tipoEmail": "COMERCIAL"
+},
+{
+"email": "betotobias@comercial.com",
+"tipoEmail": "COMERCIAL"
+},
+{
+"email": "betotobias@comercial.com",
+"tipoEmail": "COMERCIAL"
+}
+],
+"endereco": "Rua Garimpos",
+"estado": "SP",
+"fantasia": "Felipe Teste",
+"imgLogo": "https://portal.mecpock.com/assets/new_logo-4faea5032958eb43206d94fcb40708c8f79b7a7cfc9c67ee98c8b0f92b987a3c.png",
+"inscricaoEstadual": "15616516516516",
+"numero": "200",
+"razaoSocial": "Felipe Teste",
+"senha": "123456"
+}
