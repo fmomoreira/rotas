@@ -1,0 +1,24 @@
+[
+{
+"id":1,
+"nome":"Roberto Hussem",
+"cargo": "Desenvolvedor",
+"email": "robertohussen@meckpock.com.br",
+"perfil": "desenvolvedor",
+"status": "ativo"
+},
+"id":2,
+"nome":"Antonio Silva",
+"cargo": "Vendedor",
+"email": "antoniosilva@meckpock.com.br",
+"perfil": "vendedor",
+"status": "ativo"
+},
+"id":3,
+"nome":"Julia Farane",
+"cargo": "Gerente Comercial",
+"email": "juliafarane@meckpock.com.br",
+"perfil": "gerencia",
+"status": "ativo"
+}
+]
