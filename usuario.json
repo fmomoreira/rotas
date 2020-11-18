@@ -7,6 +7,7 @@
 "perfil": "desenvolvedor",
 "status": "ativo"
 },
+{
 "id":2,
 "nome":"Antonio Silva",
 "cargo": "Vendedor",
@@ -14,6 +15,7 @@
 "perfil": "vendedor",
 "status": "ativo"
 },
+{
 "id":3,
 "nome":"Julia Farane",
 "cargo": "Gerente Comercial",
